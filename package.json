@@ -1,5 +1,5 @@
 {
-  "name": "cps",
+  "name": "GxTea",
   "version": "1.0.0",
   "description": "Addition",
   "main": "index.js",
@@ -15,6 +15,6 @@
     "type": "git",
     "url": "https://github.com/bangquangtran/sum-bangquangtran"
   },
-  "author": "cryptopunkstar",
+  "author": "MajGx",
   "license": "MIT"
 }
